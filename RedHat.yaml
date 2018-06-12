@@ -1,0 +1,6 @@
+---
+sshservice: sshd
+admintools:
+  - telnet
+  - vim
+  - nano
